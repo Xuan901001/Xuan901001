@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xuan</h1>
-<h3 align="center">I am a Passionate backend developer from Taiwan with extensive experience in Linux system administration and embedded systems.🐧 </h3>
+I am a Passionate backend developer from Taiwan with extensive experience in Linux system administration and embedded systems.🐧
 
 ![Profile GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
