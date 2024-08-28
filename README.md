@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1> 
+Hi 👋
 I'm a student studying at NCUE in the master's program.
 
 A Passionate backend developer with extensive experience in Linux system administration and embedded systems.🐧
